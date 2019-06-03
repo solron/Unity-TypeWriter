@@ -9,6 +9,5 @@ Article link: https://soltveit.org/unity-typewriter-effect/
 
 YouTube link: https://youtu.be/yywHXCvZ5Us
 
-YouTube Example
 [![Demo Video](https://img.youtube.com/vi/yywHXCvZ5Us/0.jpg)](https://www.youtube.com/watch?v=yywHXCvZ5Us)
 
